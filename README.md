@@ -26,7 +26,7 @@ Mod downloads via GitHub links or local mod folder (https folder)
 ## **FAQ**
 
 ### **"What is the Discord Server link?"**
-> [thsi sis the disodorid serve rink im too lazy to be profesional ill fix thsl ater](https://discord.gg/2pjsG3u2wm)
+> [The code is 2pjsG3u2wm. You can also just click me to join our server!](https://discord.gg/2pjsG3u2wm)
 
 ### **"I've encountered a bug or critical issue. Where should I report it?"**
 > Please file an issue on our GitHub and/or report it in our Discord server!
@@ -37,5 +37,9 @@ Mod downloads via GitHub links or local mod folder (https folder)
 
 ### **"I have a feature request!"**
 > Great! please email me or send me a message on discord!
----
 
+### **"My mods aren't loading anymore"**
+> A recent update to Balatro has moderately changed how the code works, breaking naneINF for newer versions.
+> An update to fix this will release soon, until then you should use [Lovely Mobile Maker](https://lmm.shorty.systems)
+
+---
